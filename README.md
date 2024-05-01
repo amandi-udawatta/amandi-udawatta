@@ -6,4 +6,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: you tell me!
 
-[![Technology Stack](https://skillicons.dev/icons?i=js,html,css,python,c,c++,php,mysql,mongodb,react,nodejs)](https://skillicons.dev)
+[![Technology Stack](https://skillicons.dev/icons?i=js,html,css,python,c,php,mysql,mongodb,react,nodejs)](https://skillicons.dev)
