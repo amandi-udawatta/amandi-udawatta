@@ -1,8 +1,8 @@
 ### Helloooooo it's Mandy! 👩🏻‍🦳🐺🌔
 
 
-- 👩🏻‍💻 I’m currently working on PawfectCare project for a petcare center
-- 🌱 I’m currently learning Java
+- 👩🏻‍💻 I’m currently working on a travel and journaling application for tourists in Sri Lanka named "Wandr.".
+- 🌱 I’m currently learning Springboot, Next.js, Docker
 - 🌸 Pronouns: she/her
 - 🌚 Fun fact: you tell me!
 
