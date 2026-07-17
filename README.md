@@ -1,8 +1,7 @@
 ### Helloooooo it's Mandy! 👩🏻‍🦳🐺🌔
 
 
-- 👩🏻‍💻 I’m currently working on a travel and journaling application for tourists in Sri Lanka named "Wandr.".
-- 🌱 I’m currently learning Springboot, Next.js, Docker
+- 👩🏻‍💻 I’m currently working on a AI digital plant twin named "Twinly".
 - 🌸 Pronouns: she/her
 - 🌚 Fun fact: you tell me!
 
